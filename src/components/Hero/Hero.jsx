@@ -32,7 +32,7 @@ const Hero = ({ theme }) => {
               data-aos-delay="600"
               className="text-5xl lg:text-7xl font-semibold font-serif"
             >
-              Car Rental
+              Your's Car Rental service
             </h1>
             <p data-aos="fade-up" data-aos-delay="1000">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
